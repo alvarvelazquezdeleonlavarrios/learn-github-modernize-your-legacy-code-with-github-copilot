@@ -1,0 +1,16 @@
+{
+  "name": "legacy-accounting-app",
+  "version": "1.0.0",
+  "description": "Node.js conversion of legacy COBOL student account app.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
