@@ -57,7 +57,6 @@ This document explains the purpose of each COBOL source file in `src/cobol/`, ou
 ---
 For questions or if you want, I can: add input validation, implement file persistence for balances, or convert the system to a single modern program with modular procedures.
 
-## Sequence Diagram
 
 Below is a Mermaid sequence diagram showing the data flow between the user, `MainProgram`, `Operations`, and `DataProgram` during typical flows (view, credit, debit).
 
